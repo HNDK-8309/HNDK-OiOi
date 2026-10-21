@@ -1,4 +1,3 @@
 # HNDK-OiOi
-ARSIP RAHASIA HNDK
-Nama Lengkap: Handika Putra Maulana
-Nama Panggilan: Enyong, Kelas 12
+Nama_Lengkap: Handika Putra Maulana
+Nama_Panggilan: Enyong, Kelas 12
